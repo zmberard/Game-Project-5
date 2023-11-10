@@ -10,7 +10,7 @@ namespace Game_Project_5
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         private SpriteFont _font;
-
+        private int help;
         // The cube to draw 
         Cube cube;
 
